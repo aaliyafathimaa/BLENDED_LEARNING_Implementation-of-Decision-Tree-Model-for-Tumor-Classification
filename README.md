@@ -1,5 +1,9 @@
 # BLENDED_LEARNING
 # Implementation of Decision Tree Model for Tumor Classification
+<H3>NAME: GUGHAN S</H3>
+<H3>REGISTER NO.: 212223240043</H3>
+<H3>EX. NO.8</H3>
+
 
 ## AIM:
 To implement and evaluate a Decision Tree model to classify tumors as benign or malignant using a dataset of lab test results.
@@ -28,12 +32,7 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
    Measure the model’s performance on the test data with relevant metrics.
 
 ## Program:
-```
-/*
-Program to  implement a Decision Tree model for tumor classification.
-Developed by: GUGHAN S
-RegisterNumber:  212223240043
-*/
+```py
 
 # Import the necessary libraries
 import pandas as pd
@@ -86,8 +85,9 @@ plt.show()
 ```
 
 ## Output:
-<img width="671" alt="Screenshot 2024-11-14 at 11 32 31 AM" src="https://github.com/user-attachments/assets/b4928d71-0dfd-485a-9ccc-0a5a75222352">
+![alt text](image.png)
 
 
 ## Result:
 Thus, the Decision Tree model was successfully implemented to classify tumors as benign or malignant, and the model’s performance was evaluated.
+
