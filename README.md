@@ -85,7 +85,8 @@ plt.show()
 ```
 
 ## Output:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/66edc4d1-17a9-4065-b101-1826620d3c30)
+
 
 
 ## Result:
