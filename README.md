@@ -1,7 +1,7 @@
 # BLENDED_LEARNING
 # Implementation of Decision Tree Model for Tumor Classification
-<H3>NAME: GUGHAN S</H3>
-<H3>REGISTER NO.: 212223240043</H3>
+<H3>NAME: AALIYA FATHIMA M
+<H3>REGISTER NO.: 212223230001</H3>
 <H3>EX. NO.8</H3>
 
 
